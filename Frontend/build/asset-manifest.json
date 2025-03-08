@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2423761d.css",
+    "main.js": "/static/js/main.e2bf4fb9.js",
+    "static/media/Website Hero Video.mp4": "/static/media/Website Hero Video.cca691211ccee32ac8fe.mp4",
+    "static/media/main.png": "/static/media/main.65b694b1c3c82d86123d.png",
+    "static/media/weblogo.png": "/static/media/weblogo.a031005d50f15b23bf60.png",
+    "static/media/caltoday.png": "/static/media/caltoday.d528b16408c7a76bfb4c.png",
+    "static/media/exit.png": "/static/media/exit.c202126ea953389cc8e8.png",
+    "static/media/calnext.png": "/static/media/calnext.68e97bf8d3f9b255ba4f.png",
+    "static/media/calprev.png": "/static/media/calprev.35f2788f3ac84d64d063.png",
+    "static/media/next.png": "/static/media/next.b63a574c11822800e31e.png",
+    "static/media/calender.png": "/static/media/calender.24c974015dcc7b624f54.png",
+    "static/media/login.png": "/static/media/login.7f70263b6e851ea142dd.png",
+    "static/media/hidden.png": "/static/media/hidden.22c6a09acdf28a7b5e22.png",
+    "static/media/no-profile.png": "/static/media/no-profile.a85029592ca018117d1c.png",
+    "static/media/search.png": "/static/media/search.78f9d945b0e92eadc833.png",
+    "static/media/black-grad.avif": "/static/media/black-grad.c0ce739d10cf6d180483.avif",
+    "index.html": "/index.html",
+    "main.2423761d.css.map": "/static/css/main.2423761d.css.map",
+    "main.e2bf4fb9.js.map": "/static/js/main.e2bf4fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2423761d.css",
+    "static/js/main.e2bf4fb9.js"
+  ]
+}
